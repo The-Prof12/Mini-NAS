@@ -18,3 +18,14 @@ A battery powered micro server based on a Raspberry Pi CM4 module with a in buil
  - exposed pogo pin dock pins for charging/extra ports
  - 3 day battery life
  -  
+
+
+## Firware
+
+###NAS
+- Pi
+- ESP
+- Vocore 2
+
+## Repeater
+- Vocore 2 
