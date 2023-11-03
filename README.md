@@ -1,2 +1,2 @@
 # Mini-NAS
-A micro server based on a CM4 modual and a vocore 2 
+A battery micro server based on a Raspberry Pi CM4 module with a in built router and mesh net. The mesh net is created using a serise of Vocore 2 chips used in a reater configuration.THe Pi is configured with eihther diet pi or docker pools to run multiple lightweight server aplications. It could be used as a file server or any other servers aplications but it is purpose built for use in off-line use network to host jellyfin server(s). The battey backup is included to act as a in-built ups as well as a being able to use it on the go. 
