@@ -12,14 +12,13 @@ A battery powered micro server based on a Raspberry Pi CM4 module with a in buil
 - 2 usb ports
 - 1" round screen for battery and editing system
 - ESP32 or atmega charge
-- 
+  
 
 #### Vocore 2 repeaters
  - single cell 18650 battery
  - exposed pogo pin dock pins for charging/extra ports
  - 3 day battery life
- -  
-
+   
 
 ## Firware
 
